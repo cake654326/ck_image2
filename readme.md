@@ -4,5 +4,10 @@
 # 設定方法 config.js
 
 config.extraPlugins = 'image2';
+
 config.cxDefaultWidth= 200;
+
+
+# 建立
+資料放入 image2 資料夾 至 插件
 
